@@ -1,0 +1,440 @@
+[17:55:19] [main/INFO] [LaunchWrapper]: %minecraftFormattingLoading tweak class name net.minecraftforge.fml.common.launcher.FMLServerTweaker
+[17:55:19] [main/INFO] [LaunchWrapper]: %minecraftFormattingUsing primary tweak class name net.minecraftforge.fml.common.launcher.FMLServerTweaker
+[17:55:19] [main/INFO] [LaunchWrapper]: %minecraftFormattingCalling tweak class net.minecraftforge.fml.common.launcher.FMLServerTweaker
+[17:55:19] [main/INFO] [FML]: %minecraftFormattingForge Mod Loader version 14.23.5.2858 for Minecraft 1.12.2 loading
+[17:55:19] [main/INFO] [FML]: %minecraftFormattingJava is OpenJDK 64-Bit Server VM, version 1.8.0-internal, running on Windows 10:amd64:10.0, installed at C:\Users\ben\Desktop\Bodega\jre\jdk8u312-b07-jre\jre
+[17:55:24] [main/INFO] [FML]: %minecraftFormattingSearching C:\Users\ben\Desktop\Bodega\.\mods for mods
+[17:55:24] [main/INFO] [FML]: %minecraftFormattingSearching C:\Users\ben\Desktop\Bodega\.\mods\1.12.2 for mods
+[17:55:24] [main/WARN] [FML]: %minecraftFormattingFound FMLCorePluginContainsFMLMod marker in advmachinespatch-1.0.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[17:55:24] [main/WARN] [FML]: %minecraftFormattingThe coremod AFMLLoadingPlugin (mods.su5ed.advmachinespatch.asm.AFMLLoadingPlugin) is not signed!
+[17:55:24] [main/WARN] [FML]: %minecraftFormattingThe coremod PatcherPlugin (mods.su5ed.advsolarpatch.PatcherPlugin) is not signed!
+[17:55:24] [main/WARN] [FML]: %minecraftFormattingFound FMLCorePluginContainsFMLMod marker in Aroma1997Core-1.12.2-2.0.0.2.b167.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[17:55:24] [main/WARN] [FML]: %minecraftFormattingThe coremod aroma1997.core.coremod.CoreMod does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[17:55:24] [main/WARN] [FML]: %minecraftFormattingFound FMLCorePluginContainsFMLMod marker in astralsorcery-1.12.2-1.10.27.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[17:55:24] [main/WARN] [FML]: %minecraftFormattingThe coremod hellfirepvp.astralsorcery.core.AstralCore does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[17:55:24] [main/INFO] [Astral Core]: %minecraftFormatting[AstralCore] Initialized.
+[17:55:24] [main/WARN] [FML]: %minecraftFormattingFound FMLCorePluginContainsFMLMod marker in bedpatch-2.2-1.12.2.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[17:55:24] [main/INFO] [FML]: %minecraftFormattingLoading tweaker codechicken.asm.internal.Tweaker from ChickenASM-1.12-1.0.2.7.jar
+[17:55:24] [main/WARN] [FML]: %minecraftFormattingFound FMLCorePluginContainsFMLMod marker in CTM-MC1.12.2-1.0.2.31.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[17:55:24] [main/WARN] [FML]: %minecraftFormattingThe coremod team.chisel.ctm.client.asm.CTMCorePlugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[17:55:24] [main/WARN] [FML]: %minecraftFormattingThe coremod CTMCorePlugin (team.chisel.ctm.client.asm.CTMCorePlugin) is not signed!
+[17:55:24] [main/WARN] [FML]: %minecraftFormattingFound FMLCorePluginContainsFMLMod marker in engineers_doors-1.12.2-0.9.1.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[17:55:24] [main/WARN] [FML]: %minecraftFormattingThe coremod EngineersDoorsLoadingPlugin (nihiltres.engineersdoors.common.asm.EngineersDoorsLoadingPlugin) is not signed!
+[17:55:24] [main/WARN] [FML]: %minecraftFormattingFound FMLCorePluginContainsFMLMod marker in foamfix-0.10.14-1.12.2.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[17:55:24] [main/WARN] [FML]: %minecraftFormattingThe coremod pl.asie.foamfix.coremod.FoamFixCore does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[17:55:24] [main/WARN] [FML]: %minecraftFormattingFound FMLCorePluginContainsFMLMod marker in Forgelin-1.8.4.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[17:55:24] [main/WARN] [FML]: %minecraftFormattingThe coremod net.shadowfacts.forgelin.preloader.ForgelinPlugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[17:55:24] [main/WARN] [FML]: %minecraftFormattingThe coremod ForgelinPlugin (net.shadowfacts.forgelin.preloader.ForgelinPlugin) is not signed!
+[17:55:24] [main/WARN] [FML]: %minecraftFormattingFound FMLCorePluginContainsFMLMod marker in InventoryTweaks-1.63.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[17:55:24] [main/WARN] [FML]: %minecraftFormattingThe coremod invtweaks.forge.asm.FMLPlugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[17:55:24] [main/WARN] [FML]: %minecraftFormattingFound FMLCorePluginContainsFMLMod marker in NotEnoughIDs-1.5.4.4.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[17:55:24] [main/WARN] [FML]: %minecraftFormattingThe coremod ru.fewizz.neid.asm.Plugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[17:55:24] [main/WARN] [FML]: %minecraftFormattingThe coremod Plugin (ru.fewizz.neid.asm.Plugin) is not signed!
+[17:55:24] [main/WARN] [FML]: %minecraftFormattingFound FMLCorePluginContainsFMLMod marker in OpenModsLib-1.12.2-0.12.2.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[17:55:24] [main/WARN] [FML]: %minecraftFormattingThe coremod openmods.core.OpenModsCorePlugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[17:55:24] [main/WARN] [FML]: %minecraftFormattingFound FMLCorePluginContainsFMLMod marker in Quark-r1.6-179.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[17:55:24] [main/WARN] [FML]: %minecraftFormattingThe coremod Quark Plugin (vazkii.quark.base.asm.LoadingPlugin) is not signed!
+[17:55:24] [main/WARN] [FML]: %minecraftFormattingThe coremod com.therandomlabs.randompatches.core.RPCore does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[17:55:24] [main/WARN] [FML]: %minecraftFormattingFound FMLCorePluginContainsFMLMod marker in ResourceLoader-MC1.12.1-1.5.3.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[17:55:24] [main/WARN] [FML]: %minecraftFormattingThe coremod lumien.resourceloader.asm.LoadingPlugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[17:55:24] [main/WARN] [FML]: %minecraftFormattingThe coremod pl.asie.splashanimation.core.SplashAnimationCoremod does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[17:55:24] [main/WARN] [FML]: %minecraftFormattingFound FMLCorePluginContainsFMLMod marker in UniDict-1.12.2-3.0.10.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[17:55:24] [main/WARN] [FML]: %minecraftFormattingThe coremod UniDictCoreMod (wanion.unidict.core.UniDictCoreMod) is not signed!
+[17:55:24] [main/WARN] [FML]: %minecraftFormattingThe coremod blusunrize.immersiveengineering.common.asm.IELoadingPlugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[17:55:24] [main/WARN] [FML]: %minecraftFormattingThe coremod IELoadingPlugin (blusunrize.immersiveengineering.common.asm.IELoadingPlugin) is not signed!
+[17:55:24] [main/INFO] [FML]: %minecraftFormattingLoading tweaker org.spongepowered.asm.launch.MixinTweaker from phosphor-forge-mc1.12.2-0.2.7-universal.jar
+[17:55:24] [main/WARN] [FML]: %minecraftFormattingThe coremod shetiphian.asm.TweakPlugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[17:55:24] [main/WARN] [FML]: %minecraftFormattingThe coremod ShetiPhian-ASM (shetiphian.asm.TweakPlugin) is not signed!
+[17:55:24] [main/INFO] [LaunchWrapper]: %minecraftFormattingLoading tweak class name net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[17:55:24] [main/INFO] [LaunchWrapper]: %minecraftFormattingLoading tweak class name codechicken.asm.internal.Tweaker
+[17:55:24] [main/INFO] [LaunchWrapper]: %minecraftFormattingLoading tweak class name org.spongepowered.asm.launch.MixinTweaker
+[17:55:24] [main/INFO] [mixin]: %minecraftFormattingSpongePowered MIXIN Subsystem Version=0.8 Source=file:/C:/Users/ben/Desktop/Bodega/./mods/phosphor-forge-mc1.12.2-0.2.7-universal.jar Service=LaunchWrapper Env=SERVER
+[17:55:25] [main/WARN] [FML]: %minecraftFormattingThe coremod PhosphorFMLLoadingPlugin (me.jellysquid.mods.phosphor.core.PhosphorFMLLoadingPlugin) is not signed!
+[17:55:25] [main/INFO] [LaunchWrapper]: %minecraftFormattingLoading tweak class name net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
+[17:55:25] [main/INFO] [LaunchWrapper]: %minecraftFormattingCalling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[17:55:25] [main/INFO] [LaunchWrapper]: %minecraftFormattingCalling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[17:55:25] [main/INFO] [LaunchWrapper]: %minecraftFormattingCalling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[17:55:28] [main/INFO] [FML]: %minecraftFormattingFound valid fingerprint for Minecraft Forge. Certificate fingerprint e3c3d50c7c986df74c645c0ac54639741c90a557
+[17:55:28] [main/INFO] [LaunchWrapper]: %minecraftFormattingCalling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[17:55:28] [main/INFO] [LaunchWrapper]: %minecraftFormattingCalling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[17:55:28] [main/INFO] [LaunchWrapper]: %minecraftFormattingCalling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[17:55:28] [main/INFO] [LaunchWrapper]: %minecraftFormattingCalling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[17:55:28] [main/INFO] [Aroma1997Core]: %minecraftFormattingFinished data injection.
+[17:55:28] [main/INFO] [Aroma1997Core]: %minecraftFormattingFinished data injection.
+[17:55:28] [main/INFO] [LaunchWrapper]: %minecraftFormattingCalling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[17:55:28] [main/INFO] [LaunchWrapper]: %minecraftFormattingCalling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[17:55:28] [main/INFO] [LaunchWrapper]: %minecraftFormattingCalling tweak class codechicken.asm.internal.Tweaker
+[17:55:28] [main/INFO] [STDOUT]: %minecraftFormatting[codechicken.asm.internal.Tweaker:injectIntoClassLoader:30]: false
+[17:55:28] [main/INFO] [LaunchWrapper]: %minecraftFormattingCalling tweak class org.spongepowered.asm.launch.MixinTweaker
+[17:55:28] [main/INFO] [mixin]: %minecraftFormattingInitialised Mixin FML Remapper Adapter with net.minecraftforge.fml.common.asm.transformers.deobf.FMLDeobfuscatingRemapper@24e08d59
+[17:55:28] [main/INFO] [mixin]: %minecraftFormattingCompatibility level set to JAVA_8
+[17:55:28] [main/INFO] [LaunchWrapper]: %minecraftFormattingCalling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[17:55:28] [main/INFO] [LaunchWrapper]: %minecraftFormattingCalling tweak class net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
+[17:55:28] [main/INFO] [Astral Core]: %minecraftFormatting[AstralTransformer] Loading patches...
+[17:55:28] [main/INFO] [Astral Core]: %minecraftFormatting[AstralTransformer] Initialized! Loaded 14 class patches!
+[17:55:29] [main/INFO] [LaunchWrapper]: %minecraftFormattingCalling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[17:55:29] [main/INFO] [LaunchWrapper]: %minecraftFormattingCalling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[17:55:29] [main/INFO] [LaunchWrapper]: %minecraftFormattingCalling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[17:55:29] [main/INFO] [LaunchWrapper]: %minecraftFormattingCalling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[17:55:29] [main/INFO] [LaunchWrapper]: %minecraftFormattingCalling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[17:55:29] [main/INFO] [LaunchWrapper]: %minecraftFormattingCalling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[17:55:29] [main/INFO] [LaunchWrapper]: %minecraftFormattingCalling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[17:55:29] [main/INFO] [LaunchWrapper]: %minecraftFormattingCalling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[17:55:29] [main/INFO] [LaunchWrapper]: %minecraftFormattingCalling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[17:55:29] [main/INFO] [LaunchWrapper]: %minecraftFormattingCalling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[17:55:29] [main/INFO] [LaunchWrapper]: %minecraftFormattingCalling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[17:55:29] [main/INFO] [LaunchWrapper]: %minecraftFormattingCalling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[17:55:29] [main/INFO] [LaunchWrapper]: %minecraftFormattingCalling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[17:55:29] [main/INFO] [LaunchWrapper]: %minecraftFormattingCalling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[17:55:29] [main/INFO] [LaunchWrapper]: %minecraftFormattingLoading tweak class name net.minecraftforge.fml.common.launcher.TerminalTweaker
+[17:55:29] [main/INFO] [LaunchWrapper]: %minecraftFormattingLoading tweak class name org.spongepowered.asm.mixin.EnvironmentStateTweaker
+[17:55:29] [main/INFO] [LaunchWrapper]: %minecraftFormattingCalling tweak class net.minecraftforge.fml.common.launcher.TerminalTweaker
+[17:55:29] [main/INFO] [LaunchWrapper]: %minecraftFormattingCalling tweak class org.spongepowered.asm.mixin.EnvironmentStateTweaker
+[17:55:29] [main/INFO] [neid]: %minecraftFormattingPatching class: "net.minecraft.world.chunk.storage.AnvilChunkLoader" with Transformer Group: "TransformerGroupAnvilChunkLoader"
+[17:55:29] [main/INFO] [mixin]: %minecraftFormattingA re-entrant transformer '$wrapper.ru.fewizz.neid.asm.Transformer' was detected and will no longer process meta class data
+[17:55:29] [main/INFO] [BedPatch]: %minecraftFormattingPatching Chunk
+[17:55:29] [main/INFO] [STDOUT]: %minecraftFormatting[pl.asie.patchy.helpers.ConstructorReplacingTransformer$FFMethodVisitor:visitTypeInsn:73]: Replaced NEW for net/minecraft/util/ClassInheritanceMultiMap to pl/asie/foamfix/coremod/common/FoamyClassInheritanceMultiMap
+[17:55:29] [main/INFO] [STDOUT]: %minecraftFormatting[pl.asie.patchy.helpers.ConstructorReplacingTransformer$FFMethodVisitor:visitMethodInsn:85]: Replaced INVOKESPECIAL for net/minecraft/util/ClassInheritanceMultiMap to pl/asie/foamfix/coremod/common/FoamyClassInheritanceMultiMap
+[17:55:29] [main/INFO] [mixin]: %minecraftFormattingA re-entrant transformer '$wrapper.pl.asie.foamfix.coremod.FoamFixTransformer' was detected and will no longer process meta class data
+[17:55:29] [main/INFO] [EnderCore ASM]: %minecraftFormattingTransforming Class [net.minecraft.world.chunk.storage.ExtendedBlockStorage], Method [func_76663_a]
+[17:55:29] [main/INFO] [EnderCore ASM]: %minecraftFormattingTransforming net.minecraft.world.chunk.storage.ExtendedBlockStorage Finished.
+[17:55:29] [main/INFO] [Astral Core]: %minecraftFormatting[AstralTransformer] Transforming amu : net.minecraft.world.World with 2 patches!
+[17:55:29] [main/INFO] [Astral Core]: %minecraftFormatting[AstralTransformer] Skipping PATCHSUNBRIGHTNESSWORLDCLIENT as it can't be applied for side SERVER
+[17:55:29] [main/INFO] [Astral Core]: %minecraftFormatting[AstralTransformer] Applied patch PATCHSUNBRIGHTNESSWORLDCOMMON
+[17:55:30] [main/INFO] [Astral Core]: %minecraftFormatting[AstralTransformer] Transforming amu : net.minecraft.world.World with 2 patches!
+[17:55:30] [main/INFO] [Astral Core]: %minecraftFormatting[AstralTransformer] Skipping PATCHSUNBRIGHTNESSWORLDCLIENT as it can't be applied for side SERVER
+[17:55:30] [main/INFO] [Astral Core]: %minecraftFormatting[AstralTransformer] Applied patch PATCHSUNBRIGHTNESSWORLDCOMMON
+[17:55:30] [main/INFO] [STDOUT]: %minecraftFormatting[pl.asie.foamfix.coremod.FoamFixTransformer:spliceClasses:101]: Added INTERFACE: pl/asie/foamfix/coremod/patches/IFoamFixWorldRemovable
+[17:55:30] [main/INFO] [STDOUT]: %minecraftFormatting[pl.asie.foamfix.coremod.FoamFixTransformer:spliceClasses:141]: Added METHOD: net.minecraft.world.World.foamfix_removeUnloadedEntities
+[17:55:30] [main/INFO] [STDOUT]: %minecraftFormatting[pl.asie.foamfix.coremod.patches.WorldServerRemovalPatch:apply:57]: Patched updateEntities in net/minecraft/world/WorldServer func_72939_s
+[17:55:30] [main/INFO] [Quark ASM]: %minecraftFormattingTransforming net.minecraft.world.WorldServer
+[17:55:30] [main/INFO] [Quark ASM]: %minecraftFormattingApplying Transformation to method (Names [areAllPlayersAsleep, func_73056_e] Descriptor ()Z)
+[17:55:30] [main/INFO] [Quark ASM]: %minecraftFormattingLocated Method, patching...
+[17:55:30] [main/INFO] [Quark ASM]: %minecraftFormattingPatch result: true
+[17:55:30] [main/INFO] [Quark ASM]: %minecraftFormattingApplying Transformation to method (Names [wakeAllPlayers, func_73053_d] Descriptor ()V)
+[17:55:30] [main/INFO] [Quark ASM]: %minecraftFormattingLocated Method, patching...
+[17:55:30] [main/INFO] [Quark ASM]: %minecraftFormattingPatch result: true
+[17:55:30] [main/INFO] [EnderCore ASM]: %minecraftFormattingTransforming net.minecraft.entity.player.EntityPlayer finished, added func_184613_cA() overriding EntityLivingBase
+[17:55:30] [main/INFO] [Astral Core]: %minecraftFormatting[AstralTransformer] Transforming vp : net.minecraft.entity.EntityLivingBase with 4 patches!
+[17:55:30] [main/INFO] [Astral Core]: %minecraftFormatting[AstralTransformer] Applied patch PATCHAPPLYPOTIONEFFECTEVENT
+[17:55:30] [main/INFO] [Astral Core]: %minecraftFormatting[AstralTransformer] Applied patch PATCHENTITYLIVINGBASEWATERSLOWDOWN
+[17:55:30] [main/INFO] [Astral Core]: %minecraftFormatting[AstralTransformer] Applied patch PATCHSETPLAYERATTRIBUTE
+[17:55:30] [main/INFO] [Astral Core]: %minecraftFormatting[AstralTransformer] Applied patch PATCHUPDATEELYTRA
+[17:55:30] [main/INFO] [Quark ASM]: %minecraftFormattingTransforming net.minecraft.entity.Entity
+[17:55:30] [main/INFO] [Quark ASM]: %minecraftFormattingApplying Transformation to method (Names [move, func_70091_d] Descriptor (Lnet/minecraft/entity/MoverType;DDD)V)
+[17:55:30] [main/INFO] [Quark ASM]: %minecraftFormattingLocated Method, patching...
+[17:55:30] [main/INFO] [Quark ASM]: %minecraftFormattingPatch result: true
+[17:55:30] [main/INFO] [Quark ASM]: %minecraftFormattingLocated Method, patching...
+[17:55:30] [main/INFO] [Quark ASM]: %minecraftFormattingLocated patch target node INVOKEVIRTUAL net/minecraft/entity/Entity.func_145775_I ()V
+[17:55:30] [main/INFO] [Quark ASM]: %minecraftFormattingPatch result: true
+[17:55:30] [main/INFO] [Quark ASM]: %minecraftFormattingApplying Transformation to method (Names [onEntityUpdate, func_70030_z] Descriptor ()V)
+[17:55:30] [main/INFO] [Quark ASM]: %minecraftFormattingLocated Method, patching...
+[17:55:30] [main/INFO] [Quark ASM]: %minecraftFormattingPatch result: true
+[17:55:30] [main/INFO] [ShetiPhian-ASM]: %minecraftFormattingAttempting: Injection of Run Particle Override into Entity.createRunningParticles
+[17:55:30] [main/INFO] [ShetiPhian-ASM]: %minecraftFormattingSearching for: Entity.createRunningParticles (func_174808_Z)
+[17:55:30] [main/INFO] [ShetiPhian-ASM]: %minecraftFormattingFound Method: Entity.createRunningParticles
+[17:55:30] [main/INFO] [ShetiPhian-ASM]: %minecraftFormattingInjecting: Run Particle Override
+[17:55:30] [main/INFO] [LaunchWrapper]: %minecraftFormattingLaunching wrapped minecraft {net.minecraft.server.MinecraftServer}
+[17:55:30] [main/INFO] [neid]: %minecraftFormattingPatching class: "net.minecraftforge.registries.GameData" with Transformer Group: "TransformerGroupBlockHardcoredConstants"
+[17:55:30] [main/INFO] [neid]: %minecraftFormattingPatching class: "net.minecraft.block.Block" with Transformer Group: "TransformerGroupBlockHardcoredConstants"
+[17:55:30] [main/INFO] [STDOUT]: %minecraftFormatting[team.chisel.ctm.client.asm.CTMTransformer:preTransform:230]: Transforming Class [net.minecraft.block.Block], Method [getExtendedState]
+[17:55:30] [main/INFO] [STDOUT]: %minecraftFormatting[team.chisel.ctm.client.asm.CTMTransformer:finishTransform:242]: Transforming net.minecraft.block.Block Finished.
+[17:55:30] [main/INFO] [Quark ASM]: %minecraftFormattingTransforming net.minecraft.enchantment.Enchantment
+[17:55:30] [main/INFO] [Quark ASM]: %minecraftFormattingApplying Transformation to method (Names [canApply, func_92089_a] Descriptor (Lnet/minecraft/item/ItemStack;)Z)
+[17:55:30] [main/INFO] [Quark ASM]: %minecraftFormattingLocated Method, patching...
+[17:55:31] [main/INFO] [Quark ASM]: %minecraftFormattingLocated patch target node IRETURN
+[17:55:31] [main/INFO] [Quark ASM]: %minecraftFormattingPatch result: true
+[17:55:31] [main/INFO] [Quark ASM]: %minecraftFormattingTransforming net.minecraft.entity.item.EntityItem
+[17:55:31] [main/INFO] [Quark ASM]: %minecraftFormattingApplying Transformation to method (Names [onUpdate, func_70071_h_] Descriptor ()V)
+[17:55:31] [main/INFO] [Quark ASM]: %minecraftFormattingLocated Method, patching...
+[17:55:31] [main/INFO] [Quark ASM]: %minecraftFormattingPatch result: true
+[17:55:31] [main/INFO] [STDOUT]: %minecraftFormatting[pl.asie.foamfix.coremod.FoamFixTransformer:spliceClasses:114]: Spliced in METHOD: net.minecraft.block.state.BlockStateContainer.createState
+[17:55:31] [main/INFO] [STDOUT]: %minecraftFormatting[pl.asie.foamfix.coremod.FoamFixTransformer:spliceClasses:165]: Added FIELD: net.minecraft.block.state.BlockStateContainer.foamfix_mapper
+[17:55:31] [main/INFO] [STDOUT]: %minecraftFormatting[pl.asie.foamfix.coremod.FoamFixTransformer:spliceClasses:114]: Spliced in METHOD: net.minecraft.block.properties.PropertyEnum.equals
+[17:55:31] [main/INFO] [STDOUT]: %minecraftFormatting[pl.asie.foamfix.coremod.FoamFixTransformer:spliceClasses:114]: Spliced in METHOD: net.minecraft.block.properties.PropertyEnum.hashCode
+[17:55:31] [main/INFO] [STDOUT]: %minecraftFormatting[pl.asie.foamfix.coremod.FoamFixTransformer:spliceClasses:165]: Added FIELD: net.minecraft.block.properties.PropertyEnum.foamfix_hashCode
+[17:55:31] [main/INFO] [STDOUT]: %minecraftFormatting[pl.asie.foamfix.coremod.FoamFixTransformer:spliceClasses:165]: Added FIELD: net.minecraft.block.properties.PropertyEnum.foamfix_hashCode_calced
+[17:55:31] [main/INFO] [STDOUT]: %minecraftFormatting[pl.asie.foamfix.coremod.FoamFixTransformer:spliceClasses:114]: Spliced in METHOD: net.minecraft.block.properties.PropertyInteger.hashCode
+[17:55:31] [main/INFO] [STDOUT]: %minecraftFormatting[pl.asie.foamfix.coremod.FoamFixTransformer:spliceClasses:165]: Added FIELD: net.minecraft.block.properties.PropertyInteger.foamfix_hashCode
+[17:55:31] [main/INFO] [STDOUT]: %minecraftFormatting[pl.asie.foamfix.coremod.FoamFixTransformer:spliceClasses:165]: Added FIELD: net.minecraft.block.properties.PropertyInteger.foamfix_hashCode_calced
+[17:55:31] [main/INFO] [STDOUT]: %minecraftFormatting[pl.asie.foamfix.coremod.FoamFixTransformer:spliceClasses:114]: Spliced in METHOD: net.minecraft.block.properties.PropertyBool.equals
+[17:55:31] [main/INFO] [STDOUT]: %minecraftFormatting[pl.asie.foamfix.coremod.FoamFixTransformer:spliceClasses:114]: Spliced in METHOD: net.minecraft.block.properties.PropertyBool.hashCode
+[17:55:31] [main/INFO] [Astral Core]: %minecraftFormatting[AstralTransformer] Transforming aip : net.minecraft.item.ItemStack with 2 patches!
+[17:55:31] [main/INFO] [Astral Core]: %minecraftFormatting[AstralTransformer] Skipping PATCHMODIFYENCHANTMENTLEVELSTOOLTIP as it can't be applied for side SERVER
+[17:55:31] [main/INFO] [Astral Core]: %minecraftFormatting[AstralTransformer] Skipping PATCHMODIFYENCHANTMENTLEVELSTOOLTIPEVENT as it can't be applied for side SERVER
+[17:55:31] [main/INFO] [Quark ASM]: %minecraftFormattingTransforming net.minecraft.item.ItemStack
+[17:55:31] [main/INFO] [Quark ASM]: %minecraftFormattingApplying Transformation to method (Names [getTextComponent, func_151000_E] Descriptor ()Lnet/minecraft/util/text/ITextComponent;)
+[17:55:31] [main/INFO] [Quark ASM]: %minecraftFormattingLocated Method, patching...
+[17:55:31] [main/INFO] [Quark ASM]: %minecraftFormattingLocated patch target node ARETURN
+[17:55:31] [main/INFO] [Quark ASM]: %minecraftFormattingPatch result: true
+[17:55:31] [main/INFO] [Quark ASM]: %minecraftFormattingTransforming net.minecraft.block.BlockDynamicLiquid
+[17:55:31] [main/INFO] [Quark ASM]: %minecraftFormattingApplying Transformation to method (Names [isBlocked, func_176372_g] Descriptor (Lnet/minecraft/world/World;Lnet/minecraft/util/math/BlockPos;Lnet/minecraft/block/state/IBlockState;)Z)
+[17:55:31] [main/INFO] [Quark ASM]: %minecraftFormattingLocated Method, patching...
+[17:55:31] [main/INFO] [Quark ASM]: %minecraftFormattingLocated patch target node IRETURN
+[17:55:31] [main/INFO] [Quark ASM]: %minecraftFormattingLocated patch target node IRETURN
+[17:55:31] [main/INFO] [Quark ASM]: %minecraftFormattingPatch result: true
+[17:55:31] [main/INFO] [STDOUT]: %minecraftFormatting[pl.asie.foamfix.coremod.FoamFixTransformer:spliceClasses:114]: Spliced in METHOD: net.minecraft.tileentity.TileEntity.func_190559_a
+[17:55:31] [main/INFO] [STDOUT]: %minecraftFormatting[pl.asie.foamfix.coremod.FoamFixTransformer:spliceClasses:114]: Spliced in METHOD: net.minecraft.block.BlockBed.func_189540_a
+[17:55:31] [main/INFO] [Quark ASM]: %minecraftFormattingTransforming net.minecraft.block.BlockPistonBase
+[17:55:31] [main/INFO] [Quark ASM]: %minecraftFormattingApplying Transformation to method (Names [canPush, func_185646_a] Descriptor (Lnet/minecraft/block/state/IBlockState;Lnet/minecraft/world/World;Lnet/minecraft/util/math/BlockPos;Lnet/minecraft/util/EnumFacing;ZLnet/minecraft/util/EnumFacing;)Z)
+[17:55:31] [main/INFO] [Quark ASM]: %minecraftFormattingLocated Method, patching...
+[17:55:31] [main/INFO] [Quark ASM]: %minecraftFormattingLocated patch target node INVOKEVIRTUAL net/minecraft/block/Block.hasTileEntity (Lnet/minecraft/block/state/IBlockState;)Z
+[17:55:31] [main/INFO] [Quark ASM]: %minecraftFormattingPatch result: true
+[17:55:31] [main/INFO] [Quark ASM]: %minecraftFormattingApplying Transformation to method (Names [doMove, func_176319_a] Descriptor (Lnet/minecraft/world/World;Lnet/minecraft/util/math/BlockPos;Lnet/minecraft/util/EnumFacing;Z)Z)
+[17:55:31] [main/INFO] [Quark ASM]: %minecraftFormattingLocated Method, patching...
+[17:55:31] [main/INFO] [Quark ASM]: %minecraftFormattingLocated patch target node INVOKEVIRTUAL net/minecraft/block/state/BlockPistonStructureHelper.func_177254_c ()Ljava/util/List;
+[17:55:31] [main/INFO] [Quark ASM]: %minecraftFormattingPatch result: true
+[17:55:31] [main/INFO] [Quark ASM]: %minecraftFormattingApplying Transformation to method (Names [doMove, func_176319_a] Descriptor (Lnet/minecraft/world/World;Lnet/minecraft/util/math/BlockPos;Lnet/minecraft/util/EnumFacing;Z)Z)
+[17:55:31] [main/INFO] [Quark ASM]: %minecraftFormattingLocated Method, patching...
+[17:55:31] [main/INFO] [Quark ASM]: %minecraftFormattingLocated patch target node INVOKESPECIAL net/minecraft/block/state/BlockPistonStructureHelper.<init> (Lnet/minecraft/world/World;Lnet/minecraft/util/math/BlockPos;Lnet/minecraft/util/EnumFacing;Z)V
+[17:55:31] [main/INFO] [Quark ASM]: %minecraftFormattingPatch result: true
+[17:55:31] [main/INFO] [Quark ASM]: %minecraftFormattingApplying Transformation to method (Names [checkForMove, func_176316_e] Descriptor (Lnet/minecraft/world/World;Lnet/minecraft/util/math/BlockPos;Lnet/minecraft/block/state/IBlockState;)V)
+[17:55:31] [main/INFO] [Quark ASM]: %minecraftFormattingLocated Method, patching...
+[17:55:31] [main/INFO] [Quark ASM]: %minecraftFormattingLocated patch target node INVOKESPECIAL net/minecraft/block/state/BlockPistonStructureHelper.<init> (Lnet/minecraft/world/World;Lnet/minecraft/util/math/BlockPos;Lnet/minecraft/util/EnumFacing;Z)V
+[17:55:31] [main/INFO] [Quark ASM]: %minecraftFormattingPatch result: true
+[17:55:31] [main/INFO] [Quark ASM]: %minecraftFormattingTransforming net.minecraft.tileentity.TileEntityPiston
+[17:55:31] [main/INFO] [Quark ASM]: %minecraftFormattingApplying Transformation to method (Names [update, func_73660_a] Descriptor ()V)
+[17:55:31] [main/INFO] [Quark ASM]: %minecraftFormattingLocated Method, patching...
+[17:55:31] [main/INFO] [Quark ASM]: %minecraftFormattingPatch result: true
+[17:55:31] [main/INFO] [Quark ASM]: %minecraftFormattingApplying Transformation to method (Names [clearPistonTileEntity, func_145866_f] Descriptor ()V)
+[17:55:31] [main/INFO] [Quark ASM]: %minecraftFormattingLocated Method, patching...
+[17:55:31] [main/INFO] [Quark ASM]: %minecraftFormattingLocated patch target node INVOKEVIRTUAL net/minecraft/world/World.func_180501_a (Lnet/minecraft/util/math/BlockPos;Lnet/minecraft/block/state/IBlockState;I)Z
+[17:55:31] [main/INFO] [Quark ASM]: %minecraftFormattingPatch result: true
+[17:55:31] [main/INFO] [Quark ASM]: %minecraftFormattingApplying Transformation to method (Names [update, func_73660_a] Descriptor ()V)
+[17:55:31] [main/INFO] [Quark ASM]: %minecraftFormattingLocated Method, patching...
+[17:55:31] [main/INFO] [Quark ASM]: %minecraftFormattingLocated patch target node INVOKEVIRTUAL net/minecraft/world/World.func_180501_a (Lnet/minecraft/util/math/BlockPos;Lnet/minecraft/block/state/IBlockState;I)Z
+[17:55:31] [main/INFO] [Quark ASM]: %minecraftFormattingPatch result: true
+[17:55:31] [main/INFO] [STDOUT]: %minecraftFormatting[pl.asie.foamfix.coremod.patches.GhostBusterBlockStateAccessPatch$FFMethodVisitor:visitMethodInsn:93]: Added ghost buster patch (getBlockState call wrapped) in net/minecraft/block/BlockFarmland func_176530_e (net/minecraft/world/World func_180495_p (Lnet/minecraft/util/math/BlockPos;)Lnet/minecraft/block/state/IBlockState;)
+[17:55:31] [main/INFO] [STDOUT]: %minecraftFormatting[pl.asie.patchy.helpers.ConstructorReplacingTransformer$FFMethodVisitor:visitTypeInsn:73]: Replaced NEW for net/minecraft/tileentity/TileEntityHopper to pl/asie/foamfix/common/TileEntityFasterHopper
+[17:55:31] [main/INFO] [STDOUT]: %minecraftFormatting[pl.asie.patchy.helpers.ConstructorReplacingTransformer$FFMethodVisitor:visitMethodInsn:85]: Replaced INVOKESPECIAL for net/minecraft/tileentity/TileEntityHopper to pl/asie/foamfix/common/TileEntityFasterHopper
+[17:55:32] [main/INFO] [Quark ASM]: %minecraftFormattingTransforming net.minecraft.enchantment.EnchantmentDamage
+[17:55:32] [main/INFO] [Quark ASM]: %minecraftFormattingApplying Transformation to method (Names [canApply, func_92089_a] Descriptor (Lnet/minecraft/item/ItemStack;)Z)
+[17:55:32] [main/INFO] [Quark ASM]: %minecraftFormattingLocated Method, patching...
+[17:55:32] [main/INFO] [Quark ASM]: %minecraftFormattingLocated patch target node IRETURN
+[17:55:32] [main/INFO] [Quark ASM]: %minecraftFormattingLocated patch target node IRETURN
+[17:55:32] [main/INFO] [Quark ASM]: %minecraftFormattingPatch result: true
+[17:55:32] [main/INFO] [EnderCore ASM]: %minecraftFormattingTransforming Class [net.minecraft.entity.item.EntityItemFrame], Method [func_184230_a]
+[17:55:32] [main/INFO] [EnderCore ASM]: %minecraftFormattingTransforming net.minecraft.entity.item.EntityItemFrame Finished.
+[17:55:32] [main/INFO] [Quark ASM]: %minecraftFormattingTransforming net.minecraft.entity.item.EntityMinecart
+[17:55:32] [main/INFO] [Quark ASM]: %minecraftFormattingApplying Transformation to method (Names [killMinecart, func_94095_a] Descriptor (Lnet/minecraft/util/DamageSource;)V)
+[17:55:32] [main/INFO] [Quark ASM]: %minecraftFormattingLocated Method, patching...
+[17:55:32] [main/INFO] [Quark ASM]: %minecraftFormattingLocated patch target node INVOKEVIRTUAL net/minecraft/entity/item/EntityMinecart.func_70099_a (Lnet/minecraft/item/ItemStack;F)Lnet/minecraft/entity/item/EntityItem;
+[17:55:32] [main/INFO] [Quark ASM]: %minecraftFormattingPatch result: true
+[17:55:32] [main/INFO] [Quark ASM]: %minecraftFormattingTransforming net.minecraft.entity.item.EntityBoat
+[17:55:32] [main/INFO] [Quark ASM]: %minecraftFormattingApplying Transformation to method (Names [attackEntityFrom, func_70097_a] Descriptor (Lnet/minecraft/util/DamageSource;F)Z)
+[17:55:32] [main/INFO] [Quark ASM]: %minecraftFormattingLocated Method, patching...
+[17:55:32] [main/INFO] [Quark ASM]: %minecraftFormattingLocated patch target node INVOKEVIRTUAL net/minecraft/entity/item/EntityBoat.func_145778_a (Lnet/minecraft/item/Item;IF)Lnet/minecraft/entity/item/EntityItem;
+[17:55:32] [main/INFO] [Quark ASM]: %minecraftFormattingPatch result: true
+[17:55:32] [main/INFO] [Quark ASM]: %minecraftFormattingTransforming net.minecraft.item.ItemBanner
+[17:55:32] [main/INFO] [Quark ASM]: %minecraftFormattingApplying Transformation to method (Names [appendHoverTextFromTileEntityTag, func_185054_a] Descriptor (Lnet/minecraft/item/ItemStack;Ljava/util/List;)V)
+[17:55:32] [main/INFO] [Quark ASM]: %minecraftFormattingFailed to locate the method!
+[17:55:32] [main/INFO] [Astral Core]: %minecraftFormatting[AstralTransformer] Transforming wg : net.minecraft.entity.ai.attributes.AbstractAttributeMap with 1 patches!
+[17:55:32] [main/INFO] [Astral Core]: %minecraftFormatting[AstralTransformer] Applied patch PATCHADDPLAYERATTRIBUTE
+[17:55:32] [main/INFO] [Quark ASM]: %minecraftFormattingTransforming net.minecraft.entity.ai.EntityAITarget
+[17:55:32] [main/INFO] [Quark ASM]: %minecraftFormattingApplying Transformation to method (Names [isSuitableTarget, func_179445_a] Descriptor (Lnet/minecraft/entity/EntityLiving;Lnet/minecraft/entity/EntityLivingBase;ZZ)Z)
+[17:55:32] [main/INFO] [Quark ASM]: %minecraftFormattingLocated Method, patching...
+[17:55:32] [main/INFO] [Quark ASM]: %minecraftFormattingPatch result: true
+[17:55:32] [main/INFO] [STDOUT]: %minecraftFormatting[pl.asie.foamfix.coremod.FoamFixTransformer:spliceClasses:101]: Added INTERFACE: pl/asie/foamfix/api/IFoamFixMobSpawnerLogic
+[17:55:32] [main/INFO] [STDOUT]: %minecraftFormatting[pl.asie.foamfix.coremod.FoamFixTransformer:spliceClasses:114]: Spliced in METHOD: net.minecraft.tileentity.MobSpawnerBaseLogic.func_98279_f
+[17:55:32] [main/INFO] [STDOUT]: %minecraftFormatting[pl.asie.foamfix.coremod.FoamFixTransformer:spliceClasses:165]: Added FIELD: net.minecraft.tileentity.MobSpawnerBaseLogic.foamfix_activatedCache
+[17:55:32] [main/INFO] [STDOUT]: %minecraftFormatting[pl.asie.foamfix.coremod.FoamFixTransformer:spliceClasses:165]: Added FIELD: net.minecraft.tileentity.MobSpawnerBaseLogic.foamfix_activatedCachePESize
+[17:55:32] [main/INFO] [STDOUT]: %minecraftFormatting[pl.asie.foamfix.coremod.FoamFixTransformer:spliceClasses:165]: Added FIELD: net.minecraft.tileentity.MobSpawnerBaseLogic.foamfix_activatedCacheTime
+[17:55:32] [main/INFO] [STDOUT]: %minecraftFormatting[pl.asie.foamfix.coremod.FoamFixTransformer:spliceClasses:165]: Added FIELD: net.minecraft.tileentity.MobSpawnerBaseLogic.foamfix_forcedCache
+[17:55:32] [main/INFO] [STDOUT]: %minecraftFormatting[pl.asie.foamfix.coremod.FoamFixTransformer:spliceClasses:165]: Added FIELD: net.minecraft.tileentity.MobSpawnerBaseLogic.foamfix_forcedCacheTime
+[17:55:32] [main/INFO] [EnderCore ASM]: %minecraftFormattingTransforming Class [net.minecraft.entity.ai.EntityAICreeperSwell], Method [func_75246_d]
+[17:55:32] [main/INFO] [EnderCore ASM]: %minecraftFormattingTransforming net.minecraft.entity.ai.EntityAICreeperSwell Finished.
+[17:55:33] [main/INFO] [neid]: %minecraftFormattingPatching class: "net.minecraft.stats.StatList" with Transformer Group: "TransformerGroupBlockHardcoredConstants"
+[17:55:33] [main/INFO] [Quark ASM]: %minecraftFormattingTransforming net.minecraft.item.crafting.RecipesBanners$RecipeAddPattern
+[17:55:33] [main/INFO] [Quark ASM]: %minecraftFormattingApplying Transformation to method (Names [matches, func_77569_a] Descriptor (Lnet/minecraft/inventory/InventoryCrafting;Lnet/minecraft/world/World;)Z)
+[17:55:33] [main/INFO] [Quark ASM]: %minecraftFormattingLocated Method, patching...
+[17:55:33] [main/INFO] [Quark ASM]: %minecraftFormattingLocated patch target node INVOKESTATIC net/minecraft/tileentity/TileEntityBanner.func_175113_c (Lnet/minecraft/item/ItemStack;)I
+[17:55:33] [main/INFO] [Quark ASM]: %minecraftFormattingPatch result: true
+[17:55:34] [main/INFO] [Quark ASM]: %minecraftFormattingTransforming net.minecraft.inventory.ContainerMerchant
+[17:55:34] [main/INFO] [Quark ASM]: %minecraftFormattingApplying Transformation to method (Names [transferStackInSlot, func_82846_b] Descriptor (Lnet/minecraft/entity/player/EntityPlayer;I)Lnet/minecraft/item/ItemStack;)
+[17:55:34] [main/INFO] [Quark ASM]: %minecraftFormattingLocated Method, patching...
+[17:55:34] [main/INFO] [Quark ASM]: %minecraftFormattingLocated patch target node INVOKEVIRTUAL net/minecraft/inventory/ContainerMerchant.func_75135_a (Lnet/minecraft/item/ItemStack;IIZ)Z
+[17:55:34] [main/INFO] [Quark ASM]: %minecraftFormattingLocated patch target node INVOKEVIRTUAL net/minecraft/inventory/ContainerMerchant.func_75135_a (Lnet/minecraft/item/ItemStack;IIZ)Z
+[17:55:34] [main/INFO] [Quark ASM]: %minecraftFormattingLocated patch target node INVOKEVIRTUAL net/minecraft/inventory/ContainerMerchant.func_75135_a (Lnet/minecraft/item/ItemStack;IIZ)Z
+[17:55:34] [main/INFO] [Quark ASM]: %minecraftFormattingLocated patch target node INVOKEVIRTUAL net/minecraft/inventory/ContainerMerchant.func_75135_a (Lnet/minecraft/item/ItemStack;IIZ)Z
+[17:55:34] [main/INFO] [Quark ASM]: %minecraftFormattingPatch result: true
+[17:55:34] [main/INFO] [neid]: %minecraftFormattingPatching class: "net.minecraft.world.chunk.storage.AnvilChunkLoader" with Transformer Group: "TransformerGroupAnvilChunkLoader"
+[17:55:34] [main/INFO] [EnderCore ASM]: %minecraftFormattingTransforming Class [net.minecraft.inventory.ContainerFurnace], Method [func_82846_b]
+[17:55:34] [main/INFO] [EnderCore ASM]: %minecraftFormattingTransforming net.minecraft.inventory.ContainerFurnace Finished.
+[17:55:34] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: %minecraftFormattingStarting minecraft server version 1.12.2
+[17:55:34] [Server thread/INFO] [FML]: %minecraftFormattingMinecraftForge v14.23.5.2858 Initialized
+[17:55:34] [Server thread/INFO] [FML]: %minecraftFormattingStarts to replace vanilla recipe ingredients with ore ingredients.
+[17:55:34] [Server thread/INFO] [UniDictCoreMod]: %minecraftFormattingSuccessfully transformed 'net.minecraftforge.oredict.OreIngredient'.
+[17:55:34] [Server thread/INFO] [FML]: %minecraftFormattingInvalid recipe found with multiple oredict ingredients in the same ingredient...
+[17:55:34] [Server thread/INFO] [FML]: %minecraftFormattingReplaced 1227 ore ingredients
+[17:55:34] [Server thread/INFO] [FML]: %minecraftFormattingSearching C:\Users\ben\Desktop\Bodega\.\mods for mods
+[17:55:34] [Server thread/INFO] [FML]: %minecraftFormattingSearching C:\Users\ben\Desktop\Bodega\.\mods\1.12.2 for mods
+[17:55:35] [Server thread/ERROR] [FML]: %minecraftFormattingUnable to read a class file correctly
+java.lang.IllegalArgumentException: null
+	at org.objectweb.asm.ClassReader.<init>(ClassReader.java:185) ~[asm-debug-all-5.2.jar:5.2]
+	at org.objectweb.asm.ClassReader.<init>(ClassReader.java:168) ~[asm-debug-all-5.2.jar:5.2]
+	at org.objectweb.asm.ClassReader.<init>(ClassReader.java:439) ~[asm-debug-all-5.2.jar:5.2]
+	at net.minecraftforge.fml.common.discovery.asm.ASMModParser.<init>(ASMModParser.java:57) [ASMModParser.class:?]
+	at net.minecraftforge.fml.common.discovery.JarDiscoverer.findClassesASM(JarDiscoverer.java:102) [JarDiscoverer.class:?]
+	at net.minecraftforge.fml.common.discovery.JarDiscoverer.discover(JarDiscoverer.java:77) [JarDiscoverer.class:?]
+	at net.minecraftforge.fml.common.discovery.ContainerType.findMods(ContainerType.java:47) [ContainerType.class:?]
+	at net.minecraftforge.fml.common.discovery.ModCandidate.explore(ModCandidate.java:74) [ModCandidate.class:?]
+	at net.minecraftforge.fml.common.discovery.ModDiscoverer.identifyMods(ModDiscoverer.java:93) [ModDiscoverer.class:?]
+	at net.minecraftforge.fml.common.Loader.identifyMods(Loader.java:427) [Loader.class:?]
+	at net.minecraftforge.fml.common.Loader.loadMods(Loader.java:568) [Loader.class:?]
+	at net.minecraftforge.fml.server.FMLServerHandler.beginServerLoading(FMLServerHandler.java:98) [FMLServerHandler.class:?]
+	at net.minecraftforge.fml.common.FMLCommonHandler.onServerStart(FMLCommonHandler.java:333) [FMLCommonHandler.class:?]
+	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:125) [nz.class:?]
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:486) [MinecraftServer.class:?]
+	at java.lang.Thread.run(Thread.java:750) [?:1.8.0-internal]
+[17:55:35] [Server thread/ERROR] [FML]: %minecraftFormattingThere was a problem reading the entry module-info.class in the jar C:\Users\ben\Desktop\Bodega\log4jfix\Log4jPatcher-1.0.0.jar - probably a corrupt zip
+net.minecraftforge.fml.common.LoaderException: java.lang.IllegalArgumentException
+
+	at net.minecraftforge.fml.common.discovery.asm.ASMModParser.<init>(ASMModParser.java:63) ~[ASMModParser.class:?]
+	at net.minecraftforge.fml.common.discovery.JarDiscoverer.findClassesASM(JarDiscoverer.java:102) [JarDiscoverer.class:?]
+	at net.minecraftforge.fml.common.discovery.JarDiscoverer.discover(JarDiscoverer.java:77) [JarDiscoverer.class:?]
+	at net.minecraftforge.fml.common.discovery.ContainerType.findMods(ContainerType.java:47) [ContainerType.class:?]
+	at net.minecraftforge.fml.common.discovery.ModCandidate.explore(ModCandidate.java:74) [ModCandidate.class:?]
+	at net.minecraftforge.fml.common.discovery.ModDiscoverer.identifyMods(ModDiscoverer.java:93) [ModDiscoverer.class:?]
+	at net.minecraftforge.fml.common.Loader.identifyMods(Loader.java:427) [Loader.class:?]
+	at net.minecraftforge.fml.common.Loader.loadMods(Loader.java:568) [Loader.class:?]
+	at net.minecraftforge.fml.server.FMLServerHandler.beginServerLoading(FMLServerHandler.java:98) [FMLServerHandler.class:?]
+	at net.minecraftforge.fml.common.FMLCommonHandler.onServerStart(FMLCommonHandler.java:333) [FMLCommonHandler.class:?]
+	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:125) [nz.class:?]
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:486) [MinecraftServer.class:?]
+	at java.lang.Thread.run(Thread.java:750) [?:1.8.0-internal]
+Caused by: java.lang.IllegalArgumentException
+	at org.objectweb.asm.ClassReader.<init>(ClassReader.java:185) ~[asm-debug-all-5.2.jar:5.2]
+	at org.objectweb.asm.ClassReader.<init>(ClassReader.java:168) ~[asm-debug-all-5.2.jar:5.2]
+	at org.objectweb.asm.ClassReader.<init>(ClassReader.java:439) ~[asm-debug-all-5.2.jar:5.2]
+	at net.minecraftforge.fml.common.discovery.asm.ASMModParser.<init>(ASMModParser.java:57) ~[ASMModParser.class:?]
+	... 12 more
+[17:55:35] [Server thread/WARN] [FML]: %minecraftFormattingZip file Log4jPatcher-1.0.0.jar failed to read properly, it will be ignored
+net.minecraftforge.fml.common.LoaderException: java.lang.IllegalArgumentException
+
+	at net.minecraftforge.fml.common.discovery.asm.ASMModParser.<init>(ASMModParser.java:63) ~[ASMModParser.class:?]
+	at net.minecraftforge.fml.common.discovery.JarDiscoverer.findClassesASM(JarDiscoverer.java:102) ~[JarDiscoverer.class:?]
+	at net.minecraftforge.fml.common.discovery.JarDiscoverer.discover(JarDiscoverer.java:77) [JarDiscoverer.class:?]
+	at net.minecraftforge.fml.common.discovery.ContainerType.findMods(ContainerType.java:47) [ContainerType.class:?]
+	at net.minecraftforge.fml.common.discovery.ModCandidate.explore(ModCandidate.java:74) [ModCandidate.class:?]
+	at net.minecraftforge.fml.common.discovery.ModDiscoverer.identifyMods(ModDiscoverer.java:93) [ModDiscoverer.class:?]
+	at net.minecraftforge.fml.common.Loader.identifyMods(Loader.java:427) [Loader.class:?]
+	at net.minecraftforge.fml.common.Loader.loadMods(Loader.java:568) [Loader.class:?]
+	at net.minecraftforge.fml.server.FMLServerHandler.beginServerLoading(FMLServerHandler.java:98) [FMLServerHandler.class:?]
+	at net.minecraftforge.fml.common.FMLCommonHandler.onServerStart(FMLCommonHandler.java:333) [FMLCommonHandler.class:?]
+	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:125) [nz.class:?]
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:486) [MinecraftServer.class:?]
+	at java.lang.Thread.run(Thread.java:750) [?:1.8.0-internal]
+Caused by: java.lang.IllegalArgumentException
+	at org.objectweb.asm.ClassReader.<init>(ClassReader.java:185) ~[asm-debug-all-5.2.jar:5.2]
+	at org.objectweb.asm.ClassReader.<init>(ClassReader.java:168) ~[asm-debug-all-5.2.jar:5.2]
+	at org.objectweb.asm.ClassReader.<init>(ClassReader.java:439) ~[asm-debug-all-5.2.jar:5.2]
+	at net.minecraftforge.fml.common.discovery.asm.ASMModParser.<init>(ASMModParser.java:57) ~[ASMModParser.class:?]
+	... 12 more
+[17:55:35] [Server thread/WARN] [FML]: %minecraftFormattingMod aroma1997core is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 2.0.0.2.b167
+[17:55:35] [Server thread/WARN] [FML]: %minecraftFormattingMod aroma1997sdimension is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 2.0.0.2.b89
+[17:55:36] [Server thread/INFO] [FML]: %minecraftFormattingDisabling mod betteradvancements it is client side only.
+[17:55:36] [Server thread/WARN] [FML]: %minecraftFormattingMod betterbuilderswands is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 0.13.2
+[17:55:37] [Server thread/INFO] [FML]: %minecraftFormattingMod careerbees is missing the required element 'name'. Substituting careerbees
+[17:55:37] [Server thread/WARN] [FML]: %minecraftFormattingMod codechickenlib is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 3.2.3.358
+[17:55:37] [Server thread/WARN] [FML]: %minecraftFormattingMod compactsolars is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 1.12.2-5.0.18.341
+[17:55:37] [Server thread/INFO] [FML]: %minecraftFormattingDisabling mod controlling it is client side only.
+[17:55:37] [Server thread/WARN] [FML]: %minecraftFormattingMod cookingforblockheads is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 6.5.0
+[17:55:37] [Server thread/INFO] [FML]: %minecraftFormattingDisabling mod ctgui it is client side only.
+[17:55:38] [Server thread/INFO] [FML]: %minecraftFormattingDisabling mod ctm it is client side only.
+[17:55:38] [Server thread/INFO] [FML]: %minecraftFormattingDisabling mod custommainmenu it is client side only.
+[17:55:38] [Server thread/INFO] [FML]: %minecraftFormattingDisabling mod defaultoptions it is client side only.
+[17:55:38] [Server thread/WARN] [FML]: %minecraftFormattingMod enderstorage is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 2.4.6.137
+[17:55:38] [Server thread/WARN] [FML]: %minecraftFormattingMod engineersworkshop is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 1.0.9.40
+[17:55:40] [Server thread/WARN] [FML]: %minecraftFormattingMod microblockcbe is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 2.6.2.83
+[17:55:40] [Server thread/WARN] [FML]: %minecraftFormattingMod forgemultipartcbe is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 2.6.2.83
+[17:55:40] [Server thread/WARN] [FML]: %minecraftFormattingMod minecraftmultipartcbe is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 2.6.2.83
+[17:55:40] [Server thread/WARN] [FML]: %minecraftFormattingMod ironchest is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 1.12.2-7.0.67.844
+[17:55:40] [Server thread/INFO] [FML]: %minecraftFormattingDisabling mod jeiintegration it is client side only.
+[17:55:41] [Server thread/INFO] [FML]: %minecraftFormattingDisabling mod jehc it is client side only.
+[17:55:41] [Server thread/INFO] [FML]: %minecraftFormattingDisabling mod jeresources it is client side only.
+[17:55:41] [Server thread/WARN] [FML]: %minecraftFormattingMod magicbees is missing the required element 'version' and no fallback can be found. Substituting '1.0'.
+[17:55:41] [Server thread/ERROR] [FML]: %minecraftFormattingUnable to read a class file correctly
+java.lang.IllegalArgumentException: null
+	at org.objectweb.asm.ClassReader.<init>(ClassReader.java:185) ~[asm-debug-all-5.2.jar:5.2]
+	at org.objectweb.asm.ClassReader.<init>(ClassReader.java:168) ~[asm-debug-all-5.2.jar:5.2]
+	at org.objectweb.asm.ClassReader.<init>(ClassReader.java:439) ~[asm-debug-all-5.2.jar:5.2]
+	at net.minecraftforge.fml.common.discovery.asm.ASMModParser.<init>(ASMModParser.java:57) [ASMModParser.class:?]
+	at net.minecraftforge.fml.common.discovery.JarDiscoverer.findClassesASM(JarDiscoverer.java:102) [JarDiscoverer.class:?]
+	at net.minecraftforge.fml.common.discovery.JarDiscoverer.discover(JarDiscoverer.java:77) [JarDiscoverer.class:?]
+	at net.minecraftforge.fml.common.discovery.ContainerType.findMods(ContainerType.java:47) [ContainerType.class:?]
+	at net.minecraftforge.fml.common.discovery.ModCandidate.explore(ModCandidate.java:74) [ModCandidate.class:?]
+	at net.minecraftforge.fml.common.discovery.ModDiscoverer.identifyMods(ModDiscoverer.java:93) [ModDiscoverer.class:?]
+	at net.minecraftforge.fml.common.Loader.identifyMods(Loader.java:427) [Loader.class:?]
+	at net.minecraftforge.fml.common.Loader.loadMods(Loader.java:568) [Loader.class:?]
+	at net.minecraftforge.fml.server.FMLServerHandler.beginServerLoading(FMLServerHandler.java:98) [FMLServerHandler.class:?]
+	at net.minecraftforge.fml.common.FMLCommonHandler.onServerStart(FMLCommonHandler.java:333) [FMLCommonHandler.class:?]
+	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:125) [nz.class:?]
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:486) [MinecraftServer.class:?]
+	at java.lang.Thread.run(Thread.java:750) [?:1.8.0-internal]
+[17:55:41] [Server thread/ERROR] [FML]: %minecraftFormattingThere was a problem reading the entry module-info.class in the jar .\mods\MineTogether-1.12.2-2.4.5.jar - probably a corrupt zip
+net.minecraftforge.fml.common.LoaderException: java.lang.IllegalArgumentException
+
+	at net.minecraftforge.fml.common.discovery.asm.ASMModParser.<init>(ASMModParser.java:63) ~[ASMModParser.class:?]
+	at net.minecraftforge.fml.common.discovery.JarDiscoverer.findClassesASM(JarDiscoverer.java:102) [JarDiscoverer.class:?]
+	at net.minecraftforge.fml.common.discovery.JarDiscoverer.discover(JarDiscoverer.java:77) [JarDiscoverer.class:?]
+	at net.minecraftforge.fml.common.discovery.ContainerType.findMods(ContainerType.java:47) [ContainerType.class:?]
+	at net.minecraftforge.fml.common.discovery.ModCandidate.explore(ModCandidate.java:74) [ModCandidate.class:?]
+	at net.minecraftforge.fml.common.discovery.ModDiscoverer.identifyMods(ModDiscoverer.java:93) [ModDiscoverer.class:?]
+	at net.minecraftforge.fml.common.Loader.identifyMods(Loader.java:427) [Loader.class:?]
+	at net.minecraftforge.fml.common.Loader.loadMods(Loader.java:568) [Loader.class:?]
+	at net.minecraftforge.fml.server.FMLServerHandler.beginServerLoading(FMLServerHandler.java:98) [FMLServerHandler.class:?]
+	at net.minecraftforge.fml.common.FMLCommonHandler.onServerStart(FMLCommonHandler.java:333) [FMLCommonHandler.class:?]
+	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:125) [nz.class:?]
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:486) [MinecraftServer.class:?]
+	at java.lang.Thread.run(Thread.java:750) [?:1.8.0-internal]
+Caused by: java.lang.IllegalArgumentException
+	at org.objectweb.asm.ClassReader.<init>(ClassReader.java:185) ~[asm-debug-all-5.2.jar:5.2]
+	at org.objectweb.asm.ClassReader.<init>(ClassReader.java:168) ~[asm-debug-all-5.2.jar:5.2]
+	at org.objectweb.asm.ClassReader.<init>(ClassReader.java:439) ~[asm-debug-all-5.2.jar:5.2]
+	at net.minecraftforge.fml.common.discovery.asm.ASMModParser.<init>(ASMModParser.java:57) ~[ASMModParser.class:?]
+	... 12 more
+[17:55:41] [Server thread/WARN] [FML]: %minecraftFormattingZip file MineTogether-1.12.2-2.4.5.jar failed to read properly, it will be ignored
+net.minecraftforge.fml.common.LoaderException: java.lang.IllegalArgumentException
+
+	at net.minecraftforge.fml.common.discovery.asm.ASMModParser.<init>(ASMModParser.java:63) ~[ASMModParser.class:?]
+	at net.minecraftforge.fml.common.discovery.JarDiscoverer.findClassesASM(JarDiscoverer.java:102) ~[JarDiscoverer.class:?]
+	at net.minecraftforge.fml.common.discovery.JarDiscoverer.discover(JarDiscoverer.java:77) [JarDiscoverer.class:?]
+	at net.minecraftforge.fml.common.discovery.ContainerType.findMods(ContainerType.java:47) [ContainerType.class:?]
+	at net.minecraftforge.fml.common.discovery.ModCandidate.explore(ModCandidate.java:74) [ModCandidate.class:?]
+	at net.minecraftforge.fml.common.discovery.ModDiscoverer.identifyMods(ModDiscoverer.java:93) [ModDiscoverer.class:?]
+	at net.minecraftforge.fml.common.Loader.identifyMods(Loader.java:427) [Loader.class:?]
+	at net.minecraftforge.fml.common.Loader.loadMods(Loader.java:568) [Loader.class:?]
+	at net.minecraftforge.fml.server.FMLServerHandler.beginServerLoading(FMLServerHandler.java:98) [FMLServerHandler.class:?]
+	at net.minecraftforge.fml.common.FMLCommonHandler.onServerStart(FMLCommonHandler.java:333) [FMLCommonHandler.class:?]
+	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:125) [nz.class:?]
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:486) [MinecraftServer.class:?]
+	at java.lang.Thread.run(Thread.java:750) [?:1.8.0-internal]
+Caused by: java.lang.IllegalArgumentException
+	at org.objectweb.asm.ClassReader.<init>(ClassReader.java:185) ~[asm-debug-all-5.2.jar:5.2]
+	at org.objectweb.asm.ClassReader.<init>(ClassReader.java:168) ~[asm-debug-all-5.2.jar:5.2]
+	at org.objectweb.asm.ClassReader.<init>(ClassReader.java:439) ~[asm-debug-all-5.2.jar:5.2]
+	at net.minecraftforge.fml.common.discovery.asm.ASMModParser.<init>(ASMModParser.java:57) ~[ASMModParser.class:?]
+	... 12 more
+[17:55:41] [Server thread/INFO] [FML]: %minecraftFormattingDisabling mod modnametooltip it is client side only.
+[17:55:41] [Server thread/INFO] [FML]: %minecraftFormattingDisabling mod moreoverlays it is client side only.
+[17:55:41] [Server thread/INFO] [FML]: %minecraftFormattingDisabling mod mousetweaks it is client side only.
+[17:55:41] [Server thread/WARN] [FML]: %minecraftFormattingMod mrtjpcore is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 2.1.4.43
+[17:55:42] [Server thread/WARN] [FML]: %minecraftFormattingMod patchouli is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 1.0-23.6
+[17:55:42] [Server thread/WARN] [FML]: %minecraftFormattingMod projectred-core is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 4.9.4.120
+[17:55:42] [Server thread/INFO] [FML]: %minecraftFormattingMod projectred-compat is missing the required element 'name'. Substituting projectred-compat
+[17:55:42] [Server thread/WARN] [FML]: %minecraftFormattingMod projectred-compat is missing the required element 'version' and no fallback can be found. Substituting '1.0'.
+[17:55:42] [Server thread/WARN] [FML]: %minecraftFormattingMod projectred-fabrication is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 4.9.4.120
+[17:55:42] [Server thread/WARN] [FML]: %minecraftFormattingMod projectred-integration is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 4.9.4.120
+[17:55:42] [Server thread/WARN] [FML]: %minecraftFormattingMod projectred-transmission is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 4.9.4.120
+[17:55:42] [Server thread/WARN] [FML]: %minecraftFormattingMod projectred-illumination is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 4.9.4.120
+[17:55:42] [Server thread/WARN] [FML]: %minecraftFormattingMod projectred-expansion is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 4.9.4.120
+[17:55:42] [Server thread/WARN] [FML]: %minecraftFormattingMod projectred-relocation is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 4.9.4.120
+[17:55:42] [Server thread/WARN] [FML]: %minecraftFormattingMod projectred-transportation is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 4.9.4.120
+[17:55:42] [Server thread/WARN] [FML]: %minecraftFormattingMod projectred-exploration is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 4.9.4.120
+[17:55:43] [Server thread/INFO] [FML]: %minecraftFormattingDisabling mod resourceloader it is client side only.
+[17:55:44] [Server thread/WARN] [FML]: %minecraftFormattingMod simplyjetpacks is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 1.12.2-2.2.20.0
+[17:55:44] [Server thread/WARN] [FML]: %minecraftFormattingMod tcinventoryscan is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 2.0.10
+[17:55:44] [Server thread/INFO] [FML]: %minecraftFormattingDisabling mod thaumicjei it is client side only.
+[17:55:45] [Server thread/INFO] [FML]: %minecraftFormattingDisabling mod tipthescales it is client side only.
+[17:55:45] [Server thread/WARN] [FML]: %minecraftFormattingMod translocators is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 2.5.2.81
+[17:55:45] [Server thread/WARN] [FML]: %minecraftFormattingMod waystones is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 4.1.0
